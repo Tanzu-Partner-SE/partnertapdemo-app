@@ -24,7 +24,7 @@ spec:
 #  image: ""
   source:
     git:
-      url: https://github.com/Eknathreddy09/partnertapdemo-app
+      url: https://github.com/Tanzu-Partner-SE/partnertapdemo-app
       ref: 
         branch: main
 #        tag: "v0.0.1"
