@@ -12,10 +12,6 @@ metadata:
     - tap13-w02-s001
   annotations:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=partnertapdemo'
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tap13-w02-s001'
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tap13-w02-s002'
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tap13-w02-s003'
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tap13-w02-s004'
 spec:
   type: service
   lifecycle: production
