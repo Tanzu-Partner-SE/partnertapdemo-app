@@ -9,7 +9,6 @@ metadata:
     - web
     - tanzu
     - partnerdemo
-    - tap13-w02-s001
   annotations:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=partnertapdemo'
 spec:
