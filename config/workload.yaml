@@ -8,7 +8,6 @@ metadata:
     apps.tanzu.vmware.com/has-tests: "true"
     app.kubernetes.io/part-of: partnertapdemo
     apps.tanzu.vmware.com/auto-configure-actuators: "true"
-    apis.apps.tanzu.vmware.com/register-api: "true"
 spec:
   serviceAccountName: default
   params:
